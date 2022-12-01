@@ -113,8 +113,7 @@ toml==0.10.2
     #   pep517
     #   pre-commit
     #   pytest
-    #   tox
-tox==3.24.3
+tox==3.27.1
     # via -r requirements/dev.in
 urllib3==1.26.5
     # via requests
